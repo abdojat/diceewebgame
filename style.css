@@ -1,0 +1,27 @@
+html {
+    background-color: gray;
+}
+
+.container-fluid {
+    padding: 3% 25%;
+    text-align: center;
+    background: none;
+}
+
+.heading
+{
+    font-family: 'montserrat', monospace;
+    font-size:5rem;
+    padding: 13%;
+    color: green;
+}
+img {
+    width : 200px;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'montserrat', monospace;
+    color:green;
+    font-size: 3rem;
+}
