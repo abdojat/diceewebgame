@@ -4,11 +4,11 @@ var player1 = Math.floor(Math.random()*6)+1;
 var player2 = Math.floor(Math.random()*6)+1;
 if(player1>player2)
 {
-    document.querySelector("h1").textContent = "plyer 1 wins";
+    document.querySelector("h1").textContent = "player 1 wins";
 }
 else if (player2>player1)
 {
-    document.querySelector("h1").textContent = "plyer 2 wins";    
+    document.querySelector("h1").textContent = "player 2 wins";    
 }
 else
 {
